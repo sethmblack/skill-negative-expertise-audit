@@ -3,8 +3,9 @@ name: negative-expertise-audit
 description: Systematically identify and document what NOT to do in a domain, building the "censor agents" that prevent known failures.
 license: MIT
 metadata:
+  version: 1.0.4570
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - negative-expertise-audit
 - structure
